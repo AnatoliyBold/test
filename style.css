@@ -1,7 +1,16 @@
 body {
    margin: 0 auto;
    width: 70%;
+   background-image: url(/1612527822_39-p-serii-fon-geometriya-48.jpg);
+   background-attachment: fixed;
 }
-h1,h2,h3 {
-   font-family: 'Urbanist', sans-serif;
+h1,
+h2,
+h3 {
+   font-family: "Urbanist", sans-serif;
+   margin-top: 1.5em;
+}
+h1,
+h2 {
+   font-size: 32px;
 }
